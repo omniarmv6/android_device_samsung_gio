@@ -20,7 +20,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Overrides
-PRODUCT_NAME := full_gio
+PRODUCT_NAME := omni_gio
 PRODUCT_DEVICE := gio
 PRODUCT_BRAND := Samsung
 PRODUCT_MODEL := GT-S5660
